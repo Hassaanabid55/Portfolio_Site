@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/task-server.jpg",
+      "title": "Multithreaded Task Processing Server (C++)",
+      "client": "Personal Project",
+      "slug": "multithreaded-task-server"
+    },
+    {
+      "image": "/images/work/data-processing.jpg",
+      "title": "High-Performance Data Processing Tool (C++)",
+      "client": "Personal Project",
+      "slug": "data-processing-tool"
+    },
+    {
+      "image": "/images/work/ffmpeg-tool.jpg",
+      "title": "Media Conversion Tool (FFmpeg & C++)",
+      "client": "Personal Project",
+      "slug": "ffmpeg-media-tool"
+    },
+    {
+      "image": "/images/work/womco.jpg",
+      "title": "Full Stack Service Platform (Flutter + Node.js)",
+      "client": "Womco",
+      "slug": "womco-platform"
+    },
+    {
+      "image": "/images/work/keycloak.jpg",
+      "title": "Identity & Access Management Integration",
+      "client": "Vialogic",
+      "slug": "keycloak-integration"
+    },
+    {
+      "image": "/images/work/ecommerce.jpg",
+      "title": "Containerized E-commerce Platform",
+      "client": "Personal Project",
+      "slug": "containerized-ecommerce"
+    }
+  ]
+}

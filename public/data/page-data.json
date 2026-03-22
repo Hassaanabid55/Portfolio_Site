@@ -1,0 +1,111 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "hassaanabid55@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hassaanabid55@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+92 307 1301836",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+923071301836"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/github.svg",
+        "link": "https://github.com/Hassaanabid55"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/hassaanabid55"
+      },
+      {
+        "platform": "email",
+        "icon": "/images/icon/google-circle.svg",
+        "link": "mailto:hassaanabid55@gmail.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Software Engineering - 2023",
+        "description": "National University of Sciences and Technology (NUST), Islamabad. Relevant coursework: Data Structures, Algorithms, Operating Systems, Computer Networks, Database Systems, Software Engineering."
+      },
+      {
+        "title": "Cybersecurity Certified (CC) - 2023",
+        "description": "(ISC)² Certification covering network security, risk management, access control, and security operations."
+      },
+      {
+        "title": "Scrum Fundamentals Certified (SFC) - 2021",
+        "description": "Scrum Study certification covering Agile development, sprint planning, and team collaboration."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "icon": "/images/home/education-skill/icons8-c++.svg",
+        "rating": 4
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/home/education-skill/node-js-svgrepo-com.svg",
+        "rating": 4
+      },
+      {
+        "name": "Flutter",
+        "icon": "/images/home/education-skill/flutter-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker-logo-svgrepo-com.svg",
+        "rating": 4
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/home/education-skill/aws-svgrepo-com.svg",
+        "rating": 3
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/mysql-logo-svgrepo-com.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/Hassaanabid55"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/hassaanabid55"
+      },
+      {
+        "title": "Email",
+        "href": "mailto:hassaanabid55@gmail.com"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hassaanabid55@gmail.com",
+        "link": "mailto:hassaanabid55@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+92 307 1301836",
+        "link": "tel:+923071301836"
+      }
+    ]
+  }
+}
