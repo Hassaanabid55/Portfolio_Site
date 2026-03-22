@@ -5,7 +5,7 @@ const AboutMe = () => {
   return (
     <section>
       <div className="relative bg-softGray py-10 md:py-32">
-        <div className="absolute top-0 w-full px-9">
+        {/* <div className="absolute top-0 w-full px-9">
           <Image
             src={getImgPath("/images/home/about-me/resume-bg-img.svg")}
             alt="resume-bg-img"
@@ -13,7 +13,7 @@ const AboutMe = () => {
             height={348}
             className="w-full"
           />
-        </div>
+        </div> */}
 
         <div className="relative z-10">
           <div className="container">
