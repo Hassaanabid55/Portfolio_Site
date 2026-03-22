@@ -5,16 +5,6 @@ const AboutMe = () => {
   return (
     <section>
       <div className="relative bg-softGray py-10 md:py-32">
-        {/* <div className="absolute top-0 w-full px-9">
-          <Image
-            src={getImgPath("/images/home/about-me/resume-bg-img.svg")}
-            alt="resume-bg-img"
-            width={1200}
-            height={348}
-            className="w-full"
-          />
-        </div> */}
-
         <div className="relative z-10">
           <div className="container">
             <div className="flex items-center justify-between gap-2 border-b border-black pb-7">
@@ -36,8 +26,8 @@ const AboutMe = () => {
               <div className="w-full lg:max-w-2xl flex-1">
                 <p>
                   Software Engineer with 3+ years of experience building high-performance backend systems. Improved system throughput by 20% and
-reduced latency by 15% by optimizing performance-critical C++ modules and multithreaded applications. Experienced in C++, Node.js and
-Linux, with a strong focus on scalable systems, performance optimization, and backend architecture.
+                  reduced latency by 15% by optimizing performance-critical C++ modules and multithreaded applications. Experienced in C++, Node.js and
+                  Linux, with a strong focus on scalable systems, performance optimization, and backend architecture.
                 </p>
 
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">

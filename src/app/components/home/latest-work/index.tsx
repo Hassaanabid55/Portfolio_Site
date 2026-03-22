@@ -1,6 +1,5 @@
 "use client";
 import { getDataPath, getImgPath } from "@/utils/image";
-import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -40,12 +39,12 @@ const LatestWork = () => {
                   >
                     <div className="flex flex-col gap-2">
                       <div className="flex items-center justify-between">
-                        <Link href={`${value.slug}`}>
-                          <h5 className="text-lg font-semibold">{value.title}</h5>
+                        <Link href={`${value?.slug}`}>
+                          <h5 className="text-lg font-semibold">{value?.title}</h5>
                         </Link>
                       </div>
-                      <p className="text-sm text-gray-500">Client: {value.client}</p>
-                      <p className="mt-2 text-gray-700">{value.description}</p>
+                      <p className="text-sm text-gray-500">Client: {value?.client}</p>
+                      <p className="mt-2 text-gray-700">{value?.description}</p>
                     </div>
                   </div>
                 );

@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import Logo from "../logo";
 
 const Header = () => {
@@ -20,8 +19,6 @@ const Header = () => {
                         <div>
                             <Logo />
                         </div>
-
-                    
                         <button
                             onClick={handleDownloadPDF}
                             className="relative overflow-hidden cursor-pointer w-fit py-2 sm:py-3 md:py-5 px-4 sm:px-5 md:px-7 border border-primary rounded-full group"
