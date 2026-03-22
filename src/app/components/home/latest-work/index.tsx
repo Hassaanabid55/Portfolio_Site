@@ -35,7 +35,9 @@ const LatestWork = () => {
                 return (
                   <div
                     key={index}
-                    className="group flex flex-col gap-3 xl:gap-6 p-5 border border-gray-200 rounded-lg hover:border-primary hover:shadow-lg transition-all duration-300"
+                    className="group flex flex-col gap-3 xl:gap-6 p-5 border border-gray-200 rounded-lg 
+hover:border-primary hover:bg-primary/10 hover:shadow-lg hover:-translate-y-1 
+transition-all duration-300"
                   >
                     <div className="flex flex-col gap-2">
                       <div className="flex items-center justify-between">
