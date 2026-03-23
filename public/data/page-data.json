@@ -26,9 +26,14 @@
         "link": "https://www.linkedin.com/in/hassaanabid55"
       },
       {
-        "platform": "email",
-        "icon": "/images/icon/google-circle.svg",
-        "link": "mailto:hassaanabid55@gmail.com"
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-f-svgrepo-com.svg",
+        "link": "https://www.instagram.com/hassaan_who_/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-svgrepo-com.svg",
+        "link": "https://www.facebook.com/profile.php?id=100009380363937"
       }
     ]
   },
@@ -89,6 +94,14 @@
       {
         "title": "LinkedIn",
         "href": "https://www.linkedin.com/in/hassaanabid55"
+      },
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/profile.php?id=100009380363937"
+      },
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/hassaan_who_/"
       },
       {
         "title": "Email",
