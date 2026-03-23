@@ -35,6 +35,42 @@
       "client": "Personal Project",
       "slug": "containerized-ecommerce",
       "description": "A containerized e-commerce platform with microservices architecture for scalability."
+    },
+    {
+      "title": "CRM Platform (Full Stack)",
+      "client": "Personal Project",
+      "slug": "crm-platform",
+      "description": "A full-stack CRM system for managing customers, services, and job tracking with a modern web interface and backend API."
+    },
+    {
+      "title": "Discord Message Delete Bot",
+      "client": "Personal Project",
+      "slug": "message-delete-bot",
+      "description": "An automation bot that monitors and deletes specific Discord messages based on rules and filters."
+    },
+    {
+      "title": "Expense Tracker App (Flutter)",
+      "client": "Personal Project",
+      "slug": "expense-tracker",
+      "description": "A mobile app for tracking daily expenses with category-wise analytics and local data storage."
+    },
+    {
+      "title": "Quiz App (Flutter)",
+      "client": "Personal Project",
+      "slug": "quiz-app",
+      "description": "A quiz application with multiple categories, score tracking, and interactive UI built using Flutter."
+    },
+    {
+      "title": "Meals App (Flutter)",
+      "client": "Personal Project",
+      "slug": "meals-app",
+      "description": "A recipe browsing app with filters, favorites, and category-based meal browsing built in Flutter."
+    },
+    {
+      "title": "Dice Roller App (Flutter)",
+      "client": "Personal Project",
+      "slug": "dice-roller",
+      "description": "A simple Flutter application demonstrating state management and UI interaction through a dice rolling simulator."
     }
   ]
 }
