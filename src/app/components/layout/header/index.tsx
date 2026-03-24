@@ -5,7 +5,7 @@ import Logo from "../logo";
 const Header = () => {
     const handleDownloadPDF = () => {
         const link = document.createElement("a");
-        link.href = `${window.location.origin}/${process.env.NODE_ENV === "production" ? "/Portfolio_Site" : ""}/resume/Muhammad_Hassaan_Resume.pdf`;
+        link.href = "./resume/Muhammad_Hassaan_Resume.pdf";
         link.download = "Muhammad_Hassaan_Resume.pdf";
         document.body.appendChild(link);
         link.click();
