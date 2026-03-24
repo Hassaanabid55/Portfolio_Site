@@ -1,10 +1,5 @@
 ## Getting Started
 
-Clone from GitHub 
-```bash
-git clone https://github.com/themewagon/Resume-Nextjs.git
-```
-
 Install dependencies:
 ```bash
 npm install

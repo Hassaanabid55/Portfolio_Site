@@ -5,8 +5,8 @@ import Logo from "../logo";
 const Header = () => {
     const handleDownloadPDF = () => {
         const link = document.createElement("a");
-        link.href = "/resume/Muhammad_Hassaan.pdf";
-        link.download = "Muhammad_Hassaan.pdf";
+        link.href = "/resume/Muhammad_Hassaan_Resume.pdf";
+        link.download = "Muhammad_Hassaan_Resume.pdf";
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
