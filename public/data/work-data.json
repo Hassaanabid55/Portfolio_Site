@@ -16,7 +16,7 @@
       "title": "Media Conversion Tool (FFmpeg & C++)",
       "client": "xFlow Research",
       "slug": "ffmpeg-media-tool",
-      "description": "A CLI tool that converts media formats using FFmpeg, integrated with custom C++ logic."
+      "description": "A CLI tool that converts raw media formats using FFmpeg, integrated with custom C++ logic."
     },
     {
       "title": "Full Stack Service Platform (Flutter + Node.js)",
