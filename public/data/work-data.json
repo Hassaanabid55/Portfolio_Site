@@ -2,19 +2,19 @@
   "workData": [
     {
       "title": "Multithreaded Task Processing Server (C++)",
-      "client": "Personal Project",
+      "client": "xFlow Research",
       "slug": "multithreaded-task-server",
       "description": "A C++ server that processes tasks concurrently using multithreading and thread-safe queues."
     },
     {
-      "title": "High-Performance Data Processing Tool (C++)",
-      "client": "Personal Project",
-      "slug": "data-processing-tool",
-      "description": "A tool designed for fast and efficient large-scale data processing in C++."
+      "title": "High-Performance Network Processing Tool (C++)",
+      "client": "xFlow Research",
+      "slug": "network-processing-tool",
+      "description": "A tool designed for fast and efficient large-scale network traffic processing in C++."
     },
     {
       "title": "Media Conversion Tool (FFmpeg & C++)",
-      "client": "Personal Project",
+      "client": "xFlow Research",
       "slug": "ffmpeg-media-tool",
       "description": "A CLI tool that converts media formats using FFmpeg, integrated with custom C++ logic."
     },
