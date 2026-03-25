@@ -74,6 +74,11 @@
         "rating": 4
       },
       {
+        "name": "Golang",
+        "icon": "/images/home/education-skill/go-svgrepo-com.svg",
+        "rating": 4
+      },
+      {
         "name": "AWS",
         "icon": "/images/home/education-skill/aws-svgrepo-com.svg",
         "rating": 3

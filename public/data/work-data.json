@@ -4,19 +4,25 @@
       "title": "Multithreaded Task Processing Server (C++)",
       "client": "xFlow Research",
       "slug": "multithreaded-task-server",
-      "description": "A C++ server that processes tasks concurrently using multithreading and thread-safe queues."
+      "description": "Developed a high-performance C++ server for VoIP systems that handles thousands of concurrent tasks. Implemented multithreading with thread-safe queues and CPU core pinning to optimize parallel task execution, ensuring minimal latency and maximal throughput in live traffic environments."
     },
     {
-      "title": "High-Performance Network Processing Tool (C++)",
+      "title": "High-Performance Network Traffic Processing Tool (C++)",
       "client": "xFlow Research",
       "slug": "network-processing-tool",
-      "description": "A tool designed for fast and efficient large-scale network traffic processing in C++."
+      "description": "Engineered a C++ tool for real-time processing and analysis of large-scale VoIP and network traffic. The tool efficiently parses, filters, and processes raw packet streams, leveraging optimized data structures and memory management for low-latency, high-throughput operation."
     },
     {
-      "title": "Media Conversion Tool (FFmpeg & C++)",
+      "title": "Media Conversion and Analysis Tool (FFmpeg & C++)",
       "client": "xFlow Research",
       "slug": "ffmpeg-media-tool",
-      "description": "A CLI tool that converts raw media formats using FFmpeg, integrated with custom C++ logic."
+      "description": "Built a CLI tool integrating FFmpeg with custom C++ logic to convert and process raw media captured from VoIP streams. Features include H.264 and RTP payload parsing, real-time video/audio extraction, and modular design allowing easy extension for additional codecs and traffic analysis."
+    },
+    {
+      "title": "Blockchain Implementation (Go)",
+      "client": "Personal Project",
+      "slug": "blockchain-go",
+      "description": "Developed a blockchain in Go with a custom Proof-of-Work mechanism, hash-linked blocks, and tamper-detection logic. The blockchain supports fast block retrieval via a hash map, full chain validation, and a CLI-style demonstration showing block integrity before and after simulated tampering. Designed for educational purposes and to demonstrate secure data structures and distributed ledger concepts."
     },
     {
       "title": "Full Stack Service Platform (Flutter + Node.js)",
